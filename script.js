@@ -4,6 +4,7 @@ const instructionText = document.getElementById('instruction-text');
 const logo = document.getElementById('logo');
 const score = document.getElementById('score');
 const highScoreText = document.getElementById('highScore');
+const apple = document.getElementById('food');
 
 // Define game variables
 const gridSize = 20;

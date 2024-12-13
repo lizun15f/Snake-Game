@@ -40,7 +40,7 @@ body,
 
 #instruction-text {
     position: absolute;
-    top: 58%;
+    top: 60%;
     color: #333;
     width: 330px;
     text-align: center;
@@ -80,17 +80,19 @@ body,
 
 .snake {
     border: #5a5a5a 1px dotted;
-    border-radius: 3px;
+    border-radius: 4px;
 }
 
 .food {
-    background-color: #dedede;
-    border: #999 3px solid;
-    border-radius: 8px;
+    /* background-color: #dedede; */
+    /* border: #999 3px solid; */
+    /* border-radius: 9px; */
+    width: 20px;
+    height: auto;
 }
 
 #logo {
     position: absolute;
     width: 226px;
-    top: 215px;
+    top: 240px;
 }
